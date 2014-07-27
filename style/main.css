@@ -408,7 +408,7 @@ hr {
     background: url('../tile-sets/udacity/2.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow: 0 0 30px 10px rgba(128,0,128,1), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: url('../tile-sets/udacity/4.png');
     background-size: 100%;
